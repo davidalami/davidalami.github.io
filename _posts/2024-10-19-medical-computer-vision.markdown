@@ -1,8 +1,8 @@
 ---
-layout: post  
-title: "Transforming Diabetes Detection with AI-Powered Machine Vision"  
-date: 2024-10-19 15:30:18 +0200  
-categories: Healthcare AI Machine Learning  
+layout: post
+title: Transforming Diabetes Detection with AI-Powered Machine Vision
+date: '2024-10-19 15:30:18 +0200'
+categories: Healthcare AI Machine Learning
 ---
 
 **By David Alami**
@@ -70,4 +70,4 @@ The potential of AI in diabetes care extends beyond diagnosis. Future applicatio
 - **Continuous Monitoring**: Integrating AI with wearable devices to monitor blood glucose levels in real-time and provide actionable insights.
 
 
-*Originally inspired by: "Computer Vision Based Healthcare System for Identification of Diabetes & Its Types Using AI" published in [Scalable Computing: Practice and Experience](https://doi.org/10.1016/j.measen.2023.100751).*
+*Originally inspired by: "Computer Vision Based Healthcare System for Identification of Diabetes & Its Types Using AI" published in [Measurement: Sensors](https://doi.org/10.1016/j.measen.2023.100751).*
