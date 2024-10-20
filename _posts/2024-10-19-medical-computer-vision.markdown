@@ -1,4 +1,3 @@
-
 ---
 layout: post  
 title: "Transforming Diabetes Detection with AI-Powered Machine Vision"  
