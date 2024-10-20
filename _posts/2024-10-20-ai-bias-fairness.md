@@ -54,4 +54,3 @@ As AI continues to shape our world, let’s ensure it’s working for **everyone
 
 ## References
 [Policy advice and best practices on bias and fairness in AI](https://link.springer.com/article/10.1007/s10676-024-09746-w "Policy advice and best practices on bias and fairness in AI")
-
