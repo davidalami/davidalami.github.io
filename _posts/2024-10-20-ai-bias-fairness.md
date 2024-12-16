@@ -1,3 +1,7 @@
+---
+title: "Tackling Bias and Fairness in AI: Key Policy Advice and Best Practices"
+---
+
 ## Tackling Bias and Fairness in AI: Key Policy Advice and Best Practices
 
 Artificial Intelligence (AI) is revolutionizing industries, but with great power comes great responsibility. As AI takes on more decision-making tasks, from hiring to healthcare, concerns about bias and fairness in AI systems have become hot topics. How can we ensure that AI systems don't inadvertently reinforce societal inequalities? Let’s dive into the latest research from the **NoBIAS** project to find out how to manage bias and fairness in AI effectively.
