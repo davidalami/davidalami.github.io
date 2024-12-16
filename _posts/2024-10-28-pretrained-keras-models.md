@@ -1,3 +1,6 @@
+---
+title: "Power of Pretrained Keras Models"
+---
 
 # Power of Pretrained Keras Models
 
@@ -147,4 +150,3 @@ Selecting the appropriate model architecture is pivotal to the success of your c
 8.  **Keep Models Updated:**
     
     -   Stay abreast of the latest model architectures and updates within `tf.keras.applications` to leverage advancements in the field.
-
