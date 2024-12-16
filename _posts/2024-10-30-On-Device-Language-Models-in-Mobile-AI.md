@@ -1,3 +1,7 @@
+---
+title: "On-Device Language Models Revolutionizing Mobile AI"
+---
+
 ## On-Device Language Models Revolutionizing Mobile AI
 
 In today's fast-paced digital world, smartphones and mobile devices have become indispensable tools that keep us connected, informed, and entertained. 
