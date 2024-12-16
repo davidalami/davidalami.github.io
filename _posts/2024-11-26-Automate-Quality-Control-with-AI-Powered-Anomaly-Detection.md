@@ -1,3 +1,7 @@
+---
+title: "How to Automate Quality Control with AI-Powered Anomaly Detection"
+---
+
 **How to Automate Quality Control with AI-Powered Anomaly Detection**
 
 _Unlock the Future of Manufacturing with Intelligent Automation_
