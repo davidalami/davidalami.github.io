@@ -1,3 +1,7 @@
+---
+title: "The Future is Embedded: Unleashing the Power of Artificial Intelligence in Everyday Devices"
+---
+
 
 # The Future is Embedded: Unleashing the Power of Artificial Intelligence in Everyday Devices
 
