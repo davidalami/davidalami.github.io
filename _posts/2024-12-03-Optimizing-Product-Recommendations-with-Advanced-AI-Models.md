@@ -1,4 +1,6 @@
-
+---
+title: "Optimizing Product Recommendations with Advanced AI Models"
+---
 
 ## Enhancing E-commerce with AI-Powered Recommendations
 
