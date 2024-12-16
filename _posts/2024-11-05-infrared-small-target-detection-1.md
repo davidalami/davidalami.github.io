@@ -1,3 +1,7 @@
+---
+title: "SLS Loss and MSHNet for Efficient Infrared Small Target Detection"
+---
+
 # SLS Loss and MSHNet for Efficient Infrared Small Target Detection 
 
 In the ever-evolving realm of computer vision, detecting small targets in infrared (IR) images stands as a critical yet challenging task. From maritime surveillance ensuring the safety of our seas to advanced traffic management systems keeping our roads secure, the ability to accurately identify tiny, dim objects in cluttered environments is paramount. But how can we enhance this detection prowess?
