@@ -1,6 +1,10 @@
 ---
 title: Streamlining E-commerce Operations with AI-Powered Background Removal
 ---
+---
+title: "Streamlining E-commerce Operations with AI-Powered Background Removal"
+---
+
 # Streamlining E-commerce Operations with AI-Powered Background Removal
 
 
