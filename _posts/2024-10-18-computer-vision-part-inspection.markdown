@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Revolutionizing Industrial Part Inspection with AI Machine Vision Technology"
-date:   2024-10-18 14:50:18 +0200
+title: Revolutionizing Industrial Part Inspection with AI Machine Vision Technology
+date: '2024-10-18 14:50:18 +0200'
 categories: Industrial Computer Vision
 ---
-
+---
+title: "Revolutionizing Industrial Part Inspection with AI Machine Vision Technology"
+---
 
 **By David Alami**
 
