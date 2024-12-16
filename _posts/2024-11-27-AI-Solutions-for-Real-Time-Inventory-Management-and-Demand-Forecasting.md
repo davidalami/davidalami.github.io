@@ -1,3 +1,7 @@
+---
+title: "AI Solutions for Real-Time Inventory Management and Demand Forecasting"
+---
+
 # AI Solutions for Real-Time Inventory Management and Demand Forecasting
 
 ## Revolutionize Your Inventory Management with AI-Driven Solutions
