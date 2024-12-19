@@ -1,6 +1,6 @@
 ---
 layout: page
-title: David Alami, PhD  
+title: 'David Alami, PhD'
 permalink: /about/
 ---
 
@@ -24,7 +24,7 @@ My work focuses on applying cutting-edge AI models to solve real-world problems,
 - **Machine Learning Competitions**: Proven track record in Kaggle competitions, excelling in challenges such as fraud detection and keyword spotting.  
 
 ## Professional Experience  
-### AI Team Lead | Destinus  
+### AI Engineer | NDA  
 *May 2024 – Present | Madrid, Spain*  
 Leading AI development for autonomous aerospace systems, focusing on real-time computer vision and decision-making in edge environments.
 
