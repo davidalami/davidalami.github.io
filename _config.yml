@@ -29,9 +29,6 @@ github_username:  davidalami
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-google-analytics
-
-google_analytics: G-LRQQ5ME5KQ
 
 # Exclude from processing.
 # The following items will not be processed, by default.
