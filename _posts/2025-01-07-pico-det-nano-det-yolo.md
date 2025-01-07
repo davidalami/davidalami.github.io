@@ -174,3 +174,7 @@ The quest for efficient and accurate object detection models is a dynamic and ev
 On the other hand, the **YOLO** series continues to set benchmarks in real-time object detection, with models like **YOLOv11x** pushing the boundaries of accuracy. While they may demand more computational resources, their scalability and robustness make them indispensable for applications where performance cannot be compromised.
 For developers and researchers, the availability of these models opens the door to numerous opportunities. One can deploy PP-PicoDet-S on a smartphone-based AR app, integrate PP-PicoDet-M in a real-time traffic monitoring system running on low-power CPUs, or harness YOLOv11x in a data center for advanced video analytics. The bottom line: we live in an era when you do not have to choose between performance and efficiency—there is likely a specialized model that balances these factors for your specific deployment needs.
 As object detection research continues its rapid pace, the lines between “tiny” and “powerful” detection networks will only blur further. Techniques like improved NAS, quantization, and hardware-aware design promise a future in which robust, high-quality object detection is feasible on devices as small as a credit card, bridging the gap between cutting-edge AI research and everyday consumer products.
+
+## References
+1. [YOLOv11 official documentation](https://docs.ultralytics.com/models/yolo11/#overview)
+2. [PP-PicoDet: A Better Real-Time Object Detector on Mobile Devices](https://arxiv.org/pdf/2111.00902)
