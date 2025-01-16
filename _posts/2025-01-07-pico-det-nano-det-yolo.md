@@ -1,8 +1,8 @@
 ---
-title:  "A Deep Dive into PicoDet and YOLO Models for Real-Time Object Detection"
+title: A Deep Dive into PicoDet and YOLO Models for Real-Time Object Detection
 ---
 
-In the rapidly evolving landscape of computer vision, object detection stands as a cornerstone technology, powering applications ranging from autonomous driving and intelligent surveillance to augmented reality and industrial automation. As the demand for real-time, high-accuracy object detection on resource-constrained devices surges, the quest for models that strike the perfect balance between accuracy, speed, and efficiency becomes paramount. Enter PicoDet and the renowned YOLO (You Only Look Once) series—two titans in the realm of lightweight object detection models. This blog post delves deep into these models, comparing their architectures, performance metrics, and real-world applications, all while integrating insightful data to provide a comprehensive overview.
+In the rapidly evolving landscape of computer vision, object detection stands as a cornerstone technology, powering applications ranging from autonomous driving and intelligent surveillance to augmented reality and industrial automation. As the demand for real-time, high-accuracy object detection on [embedded systems](https://visiononedge.com/2024/11/21/Future-is-Embedded.html) surges, the quest for models that strike the perfect balance between accuracy, speed, and efficiency becomes paramount. Enter PicoDet and the renowned YOLO (You Only Look Once) series—two titans in the realm of lightweight object detection models. This blog post delves deep into these models, comparing their architectures, performance metrics, and real-world applications, all while integrating insightful data to provide a comprehensive overview.
 
 ----------
 
