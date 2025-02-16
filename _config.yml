@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Computer Vision on Edge
+title: Vision on Edge
 email: davidalami@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Computer Vision on Edge is my personal blog where I explore the intersection of artificial intelligence and edge computing. I share insights, tutorials, and real-world examples of how computer vision is implemented directly on devices, making AI more responsive and efficient. Follow along as I document the latest trends, challenges, and breakthroughs in this fast-evolving field. Whether you're a tech enthusiast or a developer, I aim to provide practical knowledge and inspiration.
+  Vision on Edge is my personal blog where I share my perspective on the bleeding edge of technology. Through insights, tutorials, and thought-provoking discussions, I explore the latest breakthroughs in AI, computing, and beyond. Join me as I illuminate emerging trends, tackle real-world challenges, and envision the future of innovation—one bold idea at a time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://visiononedge.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  davidalami
