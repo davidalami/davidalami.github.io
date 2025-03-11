@@ -1,6 +1,7 @@
 
 ---
-title: "Emulating Human-Like Behavior through Multi-Agent AI Simulations"
+layout: post
+title:  "Emulating Human-Like Behavior through Multi-Agent AI Simulations"
 ---
 
 
