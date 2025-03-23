@@ -62,8 +62,6 @@ Furthermore, the idea of predicting anomalies before they happen is an emerging 
 
 In addition, [an extensive survey on deep learning for time-series anomaly detection](https://arxiv.org/html/2211.05244v3) provides a structured look at the state-of-the-art. This survey clusters existing methods based on core approaches—forecasting-based, reconstruction-based, representation learning, and more—and discusses how each technique handles critical domain constraints.
 
-----------
-
 ### Foundation Models and Synthetic Data
 
 A notable shift in machine learning generally has been the rise of “foundation models” or large models pretrained on vast data for broad generalization. Similar developments are happening in the time-series domain. Researchers aim to create a single general-purpose model that can handle many tasks, domains, and data distributions, as described by the proposed [TimeMixer++](https://arxiv.org/abs/2410.16032). Such a unified approach reduces the overhead of training separate specialized models, while capturing advanced patterns from highly diverse datasets.
