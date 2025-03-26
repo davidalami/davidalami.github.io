@@ -1,10 +1,10 @@
 ---
-title: "Optimizing Prompts for Large Language Models: Three Effective Approaches"
+title: 'Optimizing Prompts for Large Language Models: Three Effective Approaches'
 ---
 
 Prompt tuning, the process of refining instructions for large language models (LLMs), significantly impacts their performance. Traditionally, this involves manual experimentation, which can be inefficient and inconsistent. Recently, three innovative methods have emerged to automate and enhance this process, all operating without requiring direct access to model gradients or parameters:
 
-### 1. PRewrite: Reinforcement Learning for Prompt Optimization
+### PRewrite: Reinforcement Learning for Prompt Optimization
 
 **Concept:** PRewrite uses Reinforcement Learning (RL) to automatically enhance prompts. A special "rewriter" language model (LLM) improves an initial simple prompt into a more effective instruction tailored to the task.
 
