@@ -132,7 +132,7 @@ Coordination is only half the puzzle; serious ecosystems need _payments_. The **
 
 ## Will IoA Overload the Real Internet?
 
-A common concern is whether millions—or billions—of chatty agents will swamp bandwidth. A 2025 measurement study injected 1 000 natural-language prompts through a local proxy that forwarded them to seven popular open-source LLMs [6](https://arxiv.org/html/2504.10688v1). The average end-to-end volume (request + response) was 7.6 kB—similar to a small email. That _sounds_ negligible until growth curves enter the equation:
+A common concern is whether millions—or billions—of chatty agents will swamp bandwidth. A 2025 measurement study injected 1 000 natural-language prompts through a local proxy that forwarded them to seven popular open-source LLMs. The average end-to-end volume (request + response) was 7.6 kB—similar to a small email. That _sounds_ negligible until growth curves enter the equation:
 
 -   **2025 (short-term)**  
     – Average of 10 queries per user each day.  
